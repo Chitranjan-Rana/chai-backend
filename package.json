@@ -1,0 +1,16 @@
+{
+  "name": "2.-backendbegin",
+  "version": "1.0.0",
+  "description": "Starting building project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "\"Chitranjan Rana\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
